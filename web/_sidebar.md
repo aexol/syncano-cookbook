@@ -22,6 +22,12 @@
     - [Wordpress on Lightsail](/solutions/aws-wordpress)
     - [NodeJS on Lightsail](/solutions/aws-node)
     - [Ethereum on Lightsail](/solutions/aws-ethereum)
+  - Google Maps
+    - [Configuration](/solutions/google-maps)
+    - [Suggest](/solutions/google-maps-suggest)
+    - [Places](/solutions/google-maps-places)
+    - [Geocoding](/solutions/google-maps-geocoding)
+    - [Directions](/solutions/google-maps-directions)
 - Deployment
   - [Deploying projects using CircleCI](/deployment/circle-ci)
   - [Using multiple Syncano accounts](/deployment/multiple-accounts)
